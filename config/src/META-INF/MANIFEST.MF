@@ -1,0 +1,65 @@
+Manifest-Version: 1.0
+Main-Class: com.bbnmb.Config
+Class-Path: ribbon-eureka-2.3.0.jar ribbon-2.3.0.jar jackson-datatype-jd
+ k8-2.9.10.jar spring-boot-actuator-2.1.17.RELEASE.jar jackson-core-2.9.
+ 10.jar eureka-client-1.9.13.jar lz4-java-1.4.1.jar reactor-core-3.2.20.
+ RELEASE.jar ribbon-httpclient-2.3.0.jar org.eclipse.jgit.http.apache-5.
+ 1.3.201810200350-r.jar spring-cloud-function-context-2.0.2.RELEASE.jar 
+ reactive-streams-1.0.3.jar log4j-api-2.11.2.jar commons-math-2.2.jar sp
+ ring-integration-jmx-5.1.12.RELEASE.jar spring-boot-actuator-autoconfig
+ ure-2.1.17.RELEASE.jar spring-boot-starter-validation-2.1.17.RELEASE.ja
+ r logback-core-1.2.3.jar httpclient-4.5.12.jar guava-16.0.jar spring-we
+ b-5.1.18.RELEASE.jar stringtemplate-3.2.1.jar javax.inject-1.jar spring
+ -beans-5.1.18.RELEASE.jar hibernate-validator-6.0.20.Final.jar minlog-1
+ .3.0.jar jersey-client-1.19.1.jar antlr-2.7.7.jar spring-boot-2.1.17.RE
+ LEASE.jar netflix-commons-util-0.3.0.jar slf4j-api-1.7.30.jar netflix-s
+ tatistics-0.1.1.jar jackson-datatype-jsr310-2.9.10.jar tomcat-embed-web
+ socket-9.0.38.jar snakeyaml-1.23.jar bcprov-jdk15on-1.64.jar jackson-an
+ notations-2.9.10.jar log4j-to-slf4j-2.11.2.jar spring-jcl-5.1.18.RELEAS
+ E.jar spring-cloud-bus-2.1.4.RELEASE.jar ribbon-loadbalancer-2.3.0.jar 
+ joda-time-2.10.6.jar gson-2.8.6.jar jackson-module-parameter-names-2.9.
+ 10.jar validation-api-2.0.1.Final.jar ribbon-transport-2.3.0.jar org.ec
+ lipse.jgit-5.1.3.201810200350-r.jar xmlpull-1.1.3.1.jar tomcat-embed-el
+ -9.0.38.jar spring-context-5.1.18.RELEASE.jar spring-cloud-starter-netf
+ lix-archaius-2.1.5.RELEASE.jar spring-integration-tuple-1.0.0.RELEASE.j
+ ar spring-boot-starter-2.1.17.RELEASE.jar spring-cloud-stream-binder-ka
+ fka-core-2.1.4.RELEASE.jar logback-classic-1.2.3.jar rxnetty-servo-0.4.
+ 9.jar javax.annotation-api-1.3.2.jar spring-boot-starter-aop-2.1.17.REL
+ EASE.jar spring-security-rsa-1.0.9.RELEASE.jar rxnetty-contexts-0.4.9.j
+ ar spring-webmvc-5.1.18.RELEASE.jar woodstox-core-5.0.3.jar spring-tupl
+ e-1.0.0.RELEASE.jar stax-api-1.0.1.jar spring-boot-starter-actuator-2.1
+ .17.RELEASE.jar spring-cloud-netflix-archaius-2.1.5.RELEASE.jar spring-
+ boot-starter-tomcat-2.1.17.RELEASE.jar tomcat-embed-core-9.0.38.jar com
+ mons-lang-2.6.jar bcpkix-jdk15on-1.64.jar jackson-databind-2.9.10.6.jar
+  stax2-api-3.1.4.jar eureka-core-1.9.13.jar commons-codec-1.11.jar xpp3
+ _min-1.1.4c.jar spring-boot-starter-logging-2.1.17.RELEASE.jar spring-b
+ oot-starter-web-2.1.17.RELEASE.jar commons-collections-3.2.2.jar aspect
+ jweaver-1.9.6.jar jsr311-api-1.1.1.jar spring-cloud-config-client-2.1.8
+ .RELEASE.jar hystrix-core-1.5.18.jar httpcore-4.4.13.jar archaius-core-
+ 0.7.6.jar spring-messaging-5.1.18.RELEASE.jar kryo-shaded-3.0.3.jar obj
+ enesis-2.1.jar lombok-1.18.12.jar spring-cloud-starter-netflix-ribbon-2
+ .1.5.RELEASE.jar spring-security-crypto-5.1.12.RELEASE.jar servo-core-0
+ .12.21.jar spring-boot-devtools-2.1.17.RELEASE.jar spring-core-5.1.18.R
+ ELEASE.jar classmate-1.4.0.jar spring-aop-5.1.18.RELEASE.jar spring-clo
+ ud-starter-stream-kafka-2.1.4.RELEASE.jar JavaEWAH-1.1.6.jar spring-boo
+ t-autoconfigure-2.1.17.RELEASE.jar spring-tx-5.1.18.RELEASE.jar commons
+ -jxpath-1.3.jar jzlib-1.1.1.jar spring-cloud-starter-2.1.6.RELEASE.jar 
+ jersey-apache-client4-1.19.1.jar micrometer-core-1.1.18.jar commons-con
+ figuration-1.8.jar spring-cloud-netflix-hystrix-2.1.5.RELEASE.jar kafka
+ -clients-2.0.1.jar jul-to-slf4j-1.7.30.jar netflix-infix-0.3.0.jar rxne
+ tty-0.4.9.jar jboss-logging-3.3.3.Final.jar spring-cloud-stream-binder-
+ kafka-2.1.4.RELEASE.jar spring-cloud-netflix-ribbon-2.1.5.RELEASE.jar s
+ pring-integration-kafka-3.1.0.RELEASE.jar spring-integration-core-5.1.1
+ 2.RELEASE.jar jettison-1.3.7.jar spring-cloud-netflix-eureka-client-2.1
+ .5.RELEASE.jar netflix-eventbus-0.3.0.jar spring-cloud-starter-bus-kafk
+ a-2.1.4.RELEASE.jar spring-expression-5.1.18.RELEASE.jar spring-boot-st
+ arter-json-2.1.17.RELEASE.jar spring-cloud-context-2.1.6.RELEASE.jar js
+ ch-0.1.54.jar antlr-runtime-3.4.jar xstream-1.4.11.1.jar spring-cloud-f
+ unction-core-2.0.2.RELEASE.jar snappy-java-1.1.7.1.jar spring-cloud-str
+ eam-2.1.4.RELEASE.jar LatencyUtils-2.0.3.jar spring-cloud-config-server
+ -2.1.8.RELEASE.jar spring-retry-1.2.5.RELEASE.jar spring-kafka-2.2.14.R
+ ELEASE.jar HdrHistogram-2.1.9.jar jersey-core-1.19.1.jar aopalliance-1.
+ 0.jar rxjava-1.3.8.jar ribbon-core-2.3.0.jar spring-cloud-starter-netfl
+ ix-eureka-client-2.1.5.RELEASE.jar spring-cloud-commons-2.1.6.RELEASE.j
+ ar guice-4.1.0.jar
+
