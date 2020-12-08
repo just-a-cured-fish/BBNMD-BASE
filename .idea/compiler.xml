@@ -8,11 +8,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="config2" />
+        <module name="zuul" />
         <module name="security" />
-        <module name="config" />
+        <module name="turbine" />
         <module name="dashboard" />
         <module name="eureka-for-high-config" />
-        <module name="turbine" />
+        <module name="config" />
         <module name="config3" />
       </profile>
     </annotationProcessing>

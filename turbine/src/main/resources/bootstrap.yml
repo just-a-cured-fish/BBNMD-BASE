@@ -13,7 +13,7 @@ spring:
       password: a # 登录config服务器的密码
       discovery:   # 到eureka中查找config服务   ,得到服务实例列表
         enabled: true
-        service-id: BASE-MICROSERVICE-CONFIG    # 服务实例名
+        service-id: base-microservice-config    # 服务实例名
 
     stream:
       kafka:
@@ -22,6 +22,10 @@ spring:
 
 ##  访问 config的注册中心eureka服务器，获取config实例列表
 eureka:
+  instance:
+    prefer-ip-address: true # 在地址栏上使用IP地址进行显示
+    instance-id: base-microservice-turbine
+    ip-address: 47.103.18.203
   client:
     register-with-eureka: false
     service-url:

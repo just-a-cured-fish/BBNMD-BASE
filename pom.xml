@@ -21,6 +21,7 @@
         <module>turbine</module>
         <module>dashboard</module>
         <module>zuul</module>
+        <module>zuul</module>
     </modules>
 
 
