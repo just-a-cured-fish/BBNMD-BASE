@@ -10,15 +10,19 @@
         <module name="config2" />
         <module name="zuul" />
         <module name="security" />
-        <module name="turbine" />
+        <module name="config" />
         <module name="dashboard" />
         <module name="eureka-for-high-config" />
-        <module name="config" />
+        <module name="bbnmd-imgUpload" />
+        <module name="bbnmd-fileupload" />
+        <module name="turbine" />
         <module name="config3" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="bbnmb-base-microservice" target="1.8" />
+      <module name="bbnmd-fileupload" target="1.8" />
+      <module name="bbnmd-imgUpload" target="1.8" />
       <module name="config" target="1.8" />
       <module name="config2" target="1.8" />
       <module name="config3" target="1.8" />

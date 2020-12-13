@@ -22,6 +22,8 @@
         <module>dashboard</module>
         <module>zuul</module>
         <module>zuul</module>
+        <module>bbnmd-imgUpload</module>
+        <module>bbnmd-fileupload</module>
     </modules>
 
 
